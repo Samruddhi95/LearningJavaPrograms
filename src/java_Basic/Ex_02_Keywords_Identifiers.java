@@ -1,10 +1,10 @@
-package ex_01_Java_Basic;
+package java_Basic;
 //Author - Samruddhi
 //#### Differences between Keywords & Identifiers
 //Keywords-Simple English words having predefined meaning in Java Programming Language
 //Ex-- int, class, public, static, void, if, else, while,for
 
-public class Keywords_Identifiers {
+public class Ex_02_Keywords_Identifiers {
     public static void main(String[] args) {
         /*
         Identifiers- names those will be used to identify the programming elements
