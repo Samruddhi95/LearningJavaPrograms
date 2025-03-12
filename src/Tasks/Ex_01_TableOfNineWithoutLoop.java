@@ -1,4 +1,4 @@
-package variables_DataTypes;
+package Tasks;
 
 public class Ex_01_TableOfNineWithoutLoop {
     public static void main(String[] args) {
