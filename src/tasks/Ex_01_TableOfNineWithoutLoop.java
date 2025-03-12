@@ -1,4 +1,4 @@
-package Tasks;
+package tasks;
 
 public class Ex_01_TableOfNineWithoutLoop {
     public static void main(String[] args) {

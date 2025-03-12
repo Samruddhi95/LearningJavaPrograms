@@ -1,4 +1,4 @@
-package Tasks;
+package tasks;
 
 public class EX_02_Calculate_Cube_Root {
     public static void main(String[] args) {
